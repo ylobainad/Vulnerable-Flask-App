@@ -36,15 +36,17 @@ It contains the following vulnerabilities.
 
 ## Installation
 
-git clone https://github.com/anil-yelken/Vulnerable-Soap-Service
+git clone https://github.com/anil-yelken/Vulnerable-Flask-App
 
-cd Vulnerable-Soap-Service
+cd Vulnerable-Flask-App
 
-sudo pip3 install requirements.txt
+sudo pip3 install -r requirements.txt
 
 ## Usage
 
-sudo python3 vulnerable_soap.py
+python3 vulnerable-flask-app.py
+
+<img src="https://github.com/anil-yelken/Vulnerable-Flask-App/blob/main/vulnerable-flask-app.jpg">
 
 ## Contact
 
